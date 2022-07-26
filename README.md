@@ -9,6 +9,14 @@
 - This script utilizes functions that require VIP access to 2Take1
 - Without VIP access, this script will not work
 
+## How to install Auto Business Manager Lua Script?
+1. Move "AutoBusinessManager.lua" and "AutoBusinessManager" folder to Scripts folder
+2. Open 2TAKE Menu then go to Scripts and enable "Trusted Mode"
+3. Now you are able to select "AutoBusinessManager.lua"
+4. Back to Script Features
+5. Toggle autoload AutoBusinessManager in Proddy's Script Manager
+6. Profit?
+
 ## 2Take1
 - You can purchase access from the following link:
 https://2take1menu.com/
