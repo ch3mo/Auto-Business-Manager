@@ -19,7 +19,7 @@
 
 ## 2Take1
 - You can purchase access from the following link:
-https://2take1menu.com/
+https://gta.2take1.menu
 
 ## autoexec.lua
 - Proddy's Script Manager v2.2.1
